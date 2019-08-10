@@ -4,14 +4,28 @@
 
 ## What is GraphQL?
 
-+ The Birth of GrapQL
-+ What problems does this solve/RESTful shortcomings?
++ RESTful APIs, and their shortcomings
++ The Birth of GraphQL
++ What problems does this solve?
 + What GraphQL excels at, and isn't so great at
 
 ## The spec basics
 
-+ Syntax
-+ Graphcool/GraphQL playground
++ Graphcool/GraphQL playground, and tessting/experimentation right up front
+
++ GraphQL Types
+  + Objects
+  + Scalar: Int, Float, String, Boolean, ID (Custom scalar types can be created)
+  + Enums
+  + Interfaces (ala TypeScript)
+  
+
 + Queries
 + Mutations
-Subscriptions
++ Subscriptions
+
+## Tools and Implementation
+
++ Apollo
++ Prisma 
+
