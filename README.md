@@ -4,10 +4,10 @@
 
 ## What is GraphQL?
 
-+ RESTful APIs, and their shortcomings
++ RESTful APIs, and their shortcomings (multiple endpoints, overfetching data)
 + The Birth of GraphQL
 + What problems does this solve?
-+ What GraphQL excels at, and isn't so great at
++ What GraphQL excels at, and isn't so great at single endpoint
 
 ## The spec basics
 
