@@ -31,3 +31,8 @@ Thanks for coming! Tonight, I'm going to give you a high-level introduction to G
 + Apollo
 + Prisma 
 
+## Resources for Further Learning
+
++ The Modern GraphQL Bootcamp by Andrew Mead (Udemy)
++ Tree and Graph Data Structures by Bianca Gandolfo (Front-End Masters)
++ Introduction to GraphQL & Advanced GraphQL by Scott Moss (Front-End Masters)
