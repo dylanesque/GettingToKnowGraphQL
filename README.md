@@ -7,7 +7,7 @@ Thanks for coming! Tonight, I'm going to give you a high-level introduction to G
 ## What is GraphQL?
 
 + RESTful APIs, and their shortcomings (multiple endpoints, overfetching data)
-+ The Birth of GraphQL (developed internally at Facebook and used in 2012, made public in 2015)
++ The Birth of GraphQL (developed internally at Facebook and used in 2012, driven by the rise of mobile technology, made public in 2015)
 + What problems does this solve? (single endpoint, client dictates what data they want, potentially much less data use than REST)
 + What GraphQL excels at, and isn't so great at (caching, overkill for smaller projects)
 
@@ -34,6 +34,21 @@ Thanks for coming! Tonight, I'm going to give you a high-level introduction to G
 
 ## Resources for Further Learning
 
++ GraphQL Documentary
+
+### Courses
+
 + The Modern GraphQL Bootcamp by Andrew Mead (Udemy)
 + Tree and Graph Data Structures by Bianca Gandolfo (Front-End Masters)
 + Introduction to GraphQL & Advanced GraphQL by Scott Moss (Front-End Masters)
+
+### Podcasts
+
++ Ladybug Podcast on GraphQL
++ Syntax (GraphQL, APIS)
+
+### Docs
+
+
+
+
