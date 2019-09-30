@@ -9,11 +9,10 @@ Thanks for coming! Tonight, I'm going to give you a high-level introduction to G
 + RESTful APIs, and their shortcomings (multiple endpoints, overfetching data)
 + The Birth of GraphQL (developed internally at Facebook and used in 2012, driven by the rise of mobile technology, made public in 2015)
 + What problems does this solve? (single endpoint, client dictates what data they want, potentially much less data use than REST)
-+ What GraphQL excels at, and isn't so great at (caching, overkill for smaller projects)
 
 ## The spec basics
 
-+ Graphcool/GraphQL playground, and testing/experimentation right up front
++ Graphcool/GraphQL playground provides a place to test and experiment with operations right up front.
 
 + GraphQL Types
   + Objects
@@ -25,16 +24,17 @@ Thanks for coming! Tonight, I'm going to give you a high-level introduction to G
   + Mutations
   + Subscriptions
   
-  + Typde definition language
+  + Type definition language (similar to Mongoose or TypeScript)
 
 ## Tools and Implementation
 
-+ Apollo
++ Apollo (For JavaScript, also provides state management and many other features)
 + Prisma 
 
 ## Resources for Further Learning
 
 + GraphQL Documentary
++ Official Docs
 
 ### Courses
 
@@ -47,7 +47,6 @@ Thanks for coming! Tonight, I'm going to give you a high-level introduction to G
 + Ladybug Podcast on GraphQL
 + Syntax (GraphQL, APIS)
 
-### Docs
 
 
 
