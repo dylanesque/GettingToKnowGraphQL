@@ -12,20 +12,17 @@ Thanks for coming! Tonight, I'm going to give you a high-level introduction to G
 
 ## The spec basics
 
+  + Type definition language (similar to Mongoose or TypeScript)
 
-
-+ GraphQL Types
-  + Objects
-  + Scalar: Int, Float, String, Boolean, ID (Custom scalar types can be created)
-  + Enums
-  + Interfaces (ala TypeScript)
+  + GraphQL Types
+    + Objects
+    + Scalar: Int, Float, String, Boolean, ID (Custom scalar types can be created)
+    + Enums
+    + Interfaces (ala TypeScript)
   
   + Queries
   + Mutations
   + Subscriptions
-  
-  + Type definition language (similar to Mongoose or TypeScript)
-  
   + Graphcool/GraphQL playground provides a place to test and experiment with operations right up front.
 
 ## Tools and Implementation
