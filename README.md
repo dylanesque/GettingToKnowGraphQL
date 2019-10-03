@@ -12,7 +12,7 @@ Thanks for coming! Tonight, I'm going to give you a high-level introduction to G
 
 ## The spec basics
 
-+ Graphcool/GraphQL playground provides a place to test and experiment with operations right up front.
+
 
 + GraphQL Types
   + Objects
@@ -25,6 +25,8 @@ Thanks for coming! Tonight, I'm going to give you a high-level introduction to G
   + Subscriptions
   
   + Type definition language (similar to Mongoose or TypeScript)
+  
+  + Graphcool/GraphQL playground provides a place to test and experiment with operations right up front.
 
 ## Tools and Implementation
 
