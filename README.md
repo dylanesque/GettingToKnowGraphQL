@@ -27,7 +27,7 @@ Talk slides can be found at: https://docs.google.com/presentation/d/1V_vaD0bHqEj
 
 Email: michaelscaveney@gmail.com
 LinkedIn: http://linkedin.com/in/michael-caveney
-Twitter: twitter.com/mscaveneyworks
+Twitter: https://twitter.com/mscaveneyworks
 Dev.to: https://dev.to/dylanesque
 
 
