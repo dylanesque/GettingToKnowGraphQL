@@ -32,14 +32,14 @@ Thanks for coming! Tonight, I'm going to give you a high-level introduction to G
 
 ## Resources for Further Learning
 
-+ GraphQL Documentary
-+ Official Docs
-
++ GraphQL Documentary: https://www.youtube.com/watch?v=783ccP__No8
++ Official Docs: https://graphql.org/
++ How to GraphQL: https://www.howtographql.com/
 ### Courses
 
-+ The Modern GraphQL Bootcamp by Andrew Mead (Udemy)
-+ Tree and Graph Data Structures by Bianca Gandolfo (Front-End Masters)
-+ Introduction to GraphQL & Advanced GraphQL by Scott Moss (Front-End Masters)
++ The Modern GraphQL Bootcamp by Andrew Mead (Udemy): 
++ Tree and Graph Data Structures by Bianca Gandolfo (Front-End Masters): 
++ Introduction to GraphQL & Advanced GraphQL by Scott Moss (Front-End Masters): 
 
 ### Podcasts
 
