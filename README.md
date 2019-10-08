@@ -25,10 +25,10 @@ Talk slides can be found at: https://docs.google.com/presentation/d/1V_vaD0bHqEj
 
 ## Contact Me at: 
 
-Email: michaelscaveney@gmail.com
-LinkedIn: http://linkedin.com/in/michael-caveney
-Twitter: https://twitter.com/mscaveneyworks
-Dev.to: https://dev.to/dylanesque
+Email: michaelscaveney@gmail.com  
+LinkedIn: http://linkedin.com/in/michael-caveney  
+Twitter: https://twitter.com/mscaveneyworks  
+Dev.to: https://dev.to/dylanesque  
 
 
 
