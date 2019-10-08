@@ -23,6 +23,13 @@ Talk slides can be found at: https://docs.google.com/presentation/d/1V_vaD0bHqEj
 + Ladybug Podcast on GraphQL: https://ladybug.dev/episode/what-the-heck-is-graphql/
 + Syntax (GraphQL, APIS): https://syntax.fm/show/174/how-to-build-an-api && https://syntax.fm/show/027/graphql-here-is-what-you-need-to-know
 
+## Contact Me at: 
+
+Email: michaelscaveney@gmail.com
+LinkedIn: http://linkedin.com/in/michael-caveney
+Twitter: twitter.com/mscaveneyworks
+Dev.to: https://dev.to/dylanesque
+
 
 
 
